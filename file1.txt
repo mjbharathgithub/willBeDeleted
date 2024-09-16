@@ -1,2 +1,1 @@
-This is a new file in child1 brach
-let see
+Now everyting is resolved by the admin or main
